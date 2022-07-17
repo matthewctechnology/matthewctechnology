@@ -1,1 +1,1 @@
-<img src="/images/banner.png" alt="matthewctechnology">
+<img src="/images/banner.jpg" alt="matthewctechnology">
